@@ -1,0 +1,456 @@
+2025-10-22 15:28:20,628 - INFO - ******************************************************************************************************
+2025-10-22 15:28:20,628 - INFO - ******************************************************************************************************
+2025-10-22 15:28:20,628 - INFO - ******************************************************************************************************
+2025-10-22 15:28:20,628 - INFO - ************************************************ Clear ***********************************************
+2025-10-22 15:30:17,612 - INFO - ******************************************************************************************************
+2025-10-22 15:30:17,612 - INFO - ******************************************************************************************************
+2025-10-22 15:30:17,612 - INFO - ******************************************************************************************************
+2025-10-22 15:30:17,612 - INFO - ************************************************ Clear ***********************************************
+2025-10-22 15:30:17,612 - INFO - 🗑️ ../app4farm-view-ireland/plain_html/ does not exist
+2025-10-22 15:30:17,612 - INFO - 🗑️ ../app4farm-view-ireland/data/performance does not exist
+2025-10-22 15:30:17,612 - INFO - 🗑️ ../app4farm-view-ireland/data/maps_csvs/ does not exist
+2025-10-22 15:30:17,612 - INFO - 🗑️ ../app4farm-view-ireland/data/forecast_dgmix/ does not exist
+2025-10-22 15:30:17,612 - INFO - ************************************************ Copy ************************************************
+2025-10-22 15:30:17,612 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t0/ndmi_t0.csv to ../app4farm-view-ireland/data/maps_csvs/ndmi_t0.csv
+2025-10-22 15:30:17,612 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t1/ndmi_t1.csv to ../app4farm-view-ireland/data/maps_csvs/ndmi_t1.csv
+2025-10-22 15:30:17,612 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t2/ndmi_t2.csv to ../app4farm-view-ireland/data/maps_csvs/ndmi_t2.csv
+2025-10-22 15:30:17,613 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t3/ndmi_t3.csv to ../app4farm-view-ireland/data/maps_csvs/ndmi_t3.csv
+2025-10-22 15:30:17,613 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t0/ndvi_t0.csv to ../app4farm-view-ireland/data/maps_csvs/ndvi_t0.csv
+2025-10-22 15:30:17,613 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t1/ndvi_t1.csv to ../app4farm-view-ireland/data/maps_csvs/ndvi_t1.csv
+2025-10-22 15:30:17,613 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t2/ndvi_t2.csv to ../app4farm-view-ireland/data/maps_csvs/ndvi_t2.csv
+2025-10-22 15:30:17,613 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t3/ndvi_t3.csv to ../app4farm-view-ireland/data/maps_csvs/ndvi_t3.csv
+2025-10-22 15:30:17,613 - INFO - Copied ../modeling/germany/swi/forecast/results/10cm/swi_0.csv to ../app4farm-view-ireland/data/maps_csvs/swi_t0.csv
+2025-10-22 15:30:17,613 - INFO - Copied ../modeling/germany/swi/forecast/results/10cm/swi_1.csv to ../app4farm-view-ireland/data/maps_csvs/swi_t1.csv
+2025-10-22 15:30:17,613 - INFO - Copied ../modeling/germany/swi/forecast/results/10cm/swi_2.csv to ../app4farm-view-ireland/data/maps_csvs/swi_t2.csv
+2025-10-22 15:30:17,613 - INFO - Copied ../modeling/germany/swi/forecast/results/10cm/swi_3.csv to ../app4farm-view-ireland/data/maps_csvs/swi_t3.csv
+2025-10-22 15:30:17,614 - INFO - Copied ../forecast_dgmix/forecast_output_Soil suction_mean.csv to ../app4farm-view-ireland/data/forecast_dgmix/
+2025-10-22 15:30:17,614 - INFO - Copied ../forecast_dgmix/forecast_output_PI54D_mean.csv to ../app4farm-view-ireland/data/forecast_dgmix/
+2025-10-22 15:30:17,614 - INFO - Copied ../forecast_dgmix/forecast_output_PI54D Perm_mean.csv to ../app4farm-view-ireland/data/forecast_dgmix/
+2025-10-22 15:30:17,614 - INFO - Copied ../forecast_dgmix/forecast_output_Dew point_mean.csv to ../app4farm-view-ireland/data/forecast_dgmix/
+2025-10-22 15:30:17,614 - INFO - Copied ../forecast_dgmix/forecast_output_PI54D temp_mean.csv to ../app4farm-view-ireland/data/forecast_dgmix/
+2025-10-22 15:30:17,614 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t0/model_performance_t0.csv to ../app4farm-view-ireland/data/performance/ndmi_0.csv
+2025-10-22 15:30:17,614 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t1/model_performance_t1.csv to ../app4farm-view-ireland/data/performance/ndmi_1.csv
+2025-10-22 15:30:17,614 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t2/model_performance_t2.csv to ../app4farm-view-ireland/data/performance/ndmi_2.csv
+2025-10-22 15:30:17,614 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t3/model_performance_t3.csv to ../app4farm-view-ireland/data/performance/ndmi_3.csv
+2025-10-22 15:30:17,614 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t0/model_performance_t0.csv to ../app4farm-view-ireland/data/performance/ndvi_0.csv
+2025-10-22 15:30:17,614 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t1/model_performance_t1.csv to ../app4farm-view-ireland/data/performance/ndvi_1.csv
+2025-10-22 15:30:17,614 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t2/model_performance_t2.csv to ../app4farm-view-ireland/data/performance/ndvi_2.csv
+2025-10-22 15:30:17,614 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t3/model_performance_t3.csv to ../app4farm-view-ireland/data/performance/ndvi_3.csv
+2025-10-22 15:30:17,614 - INFO - Copied ../modeling/germany/swi/forecast/results/10cm/model_performance.csv to ../app4farm-view-ireland/data/performance/
+2025-10-22 15:30:17,614 - INFO - Copied ../forecast_dgmix/perf_forec_metrics_Dew point_mean.csv to ../app4farm-view-ireland/data/performance/dgmix_dew_point_mean.csv
+2025-10-22 15:30:17,614 - INFO - Copied ../forecast_dgmix/perf_forec_metrics_PI54D temp_mean.csv to ../app4farm-view-ireland/data/performance/dgmix_pi54d_temp_mean.csv
+2025-10-22 15:30:17,614 - INFO - Copied ../forecast_dgmix/perf_forec_metrics_Soil suction_mean.csv to ../app4farm-view-ireland/data/performance/dgmix_soil_suction_mean.csv
+2025-10-22 15:30:17,614 - INFO - Copied ../forecast_dgmix/perf_forec_metrics_PI54D Perm_mean.csv to ../app4farm-view-ireland/data/performance/dgmix_pi54d_perm_mean.csv
+2025-10-22 15:30:17,614 - INFO - Copied ../forecast_dgmix/perf_forec_metrics_PI54D_mean.csv to ../app4farm-view-ireland/data/performance/dgmix_pi54d_mean.csv
+2025-10-22 15:30:17,614 - INFO - ************************************************ Maps ************************************************
+2025-10-22 15:30:18,783 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/swi_t0_plain.html
+2025-10-22 15:30:19,961 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndvi_t3_plain.html
+2025-10-22 15:30:21,118 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndvi_t1_plain.html
+2025-10-22 15:30:22,276 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/swi_t1_plain.html
+2025-10-22 15:30:23,434 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/swi_t2_plain.html
+2025-10-22 15:30:24,614 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndvi_t2_plain.html
+2025-10-22 15:30:25,771 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndvi_t0_plain.html
+2025-10-22 15:30:26,937 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndmi_t3_plain.html
+2025-10-22 15:30:28,077 - INFO - ******************************************************************************************************
+2025-10-22 15:30:28,077 - INFO - ******************************************************************************************************
+2025-10-22 15:30:28,077 - INFO - ******************************************************************************************************
+2025-10-22 15:30:28,077 - INFO - ************************************************ Clear ***********************************************
+2025-10-22 15:30:28,077 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/ndvi_t3_plain.html
+2025-10-22 15:30:28,077 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/ndvi_t2_plain.html
+2025-10-22 15:30:28,077 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/swi_t0_plain.html
+2025-10-22 15:30:28,078 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/swi_t1_plain.html
+2025-10-22 15:30:28,078 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/ndvi_t1_plain.html
+2025-10-22 15:30:28,078 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/ndmi_t3_plain.html
+2025-10-22 15:30:28,078 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/ndvi_t0_plain.html
+2025-10-22 15:30:28,078 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/swi_t2_plain.html
+2025-10-22 15:30:28,078 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/dgmix_pi54d_perm_mean.csv
+2025-10-22 15:30:28,078 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/dgmix_dew_point_mean.csv
+2025-10-22 15:30:28,078 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/ndvi_2.csv
+2025-10-22 15:30:28,078 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/dgmix_soil_suction_mean.csv
+2025-10-22 15:30:28,078 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/ndmi_2.csv
+2025-10-22 15:30:28,078 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/ndvi_0.csv
+2025-10-22 15:30:28,078 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/ndmi_1.csv
+2025-10-22 15:30:28,078 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/dgmix_pi54d_mean.csv
+2025-10-22 15:30:28,079 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/ndvi_1.csv
+2025-10-22 15:30:28,079 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/ndvi_3.csv
+2025-10-22 15:30:28,079 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/ndmi_0.csv
+2025-10-22 15:30:28,079 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/swi.csv
+2025-10-22 15:30:28,079 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/ndmi_3.csv
+2025-10-22 15:30:28,079 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/dgmix_pi54d_temp_mean.csv
+2025-10-22 15:30:28,079 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/swi_t0.csv
+2025-10-22 15:30:28,079 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/ndvi_t3.csv
+2025-10-22 15:30:28,079 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/ndvi_t1.csv
+2025-10-22 15:30:28,079 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/swi_t1.csv
+2025-10-22 15:30:28,079 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/swi_t2.csv
+2025-10-22 15:30:28,079 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/ndvi_t2.csv
+2025-10-22 15:30:28,079 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/ndvi_t0.csv
+2025-10-22 15:30:28,079 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/ndmi_t3.csv
+2025-10-22 15:30:28,079 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/swi_t3.csv
+2025-10-22 15:30:28,079 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/ndmi_t0.csv
+2025-10-22 15:30:28,079 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/ndmi_t1.csv
+2025-10-22 15:30:28,079 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/ndmi_t2.csv
+2025-10-22 15:30:28,079 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/forecast_dgmix/forecast_output_Soil suction_mean.csv
+2025-10-22 15:30:28,079 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/forecast_dgmix/forecast_output_PI54D_mean.csv
+2025-10-22 15:30:28,079 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/forecast_dgmix/forecast_output_PI54D Perm_mean.csv
+2025-10-22 15:30:28,079 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/forecast_dgmix/forecast_output_Dew point_mean.csv
+2025-10-22 15:30:28,079 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/forecast_dgmix/forecast_output_PI54D temp_mean.csv
+2025-10-22 15:30:28,079 - INFO - ************************************************ Copy ************************************************
+2025-10-22 15:30:28,079 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t0/ndmi_t0.csv to ../app4farm-view-ireland/data/maps_csvs/ndmi_t0.csv
+2025-10-22 15:30:28,080 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t1/ndmi_t1.csv to ../app4farm-view-ireland/data/maps_csvs/ndmi_t1.csv
+2025-10-22 15:30:28,080 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t2/ndmi_t2.csv to ../app4farm-view-ireland/data/maps_csvs/ndmi_t2.csv
+2025-10-22 15:30:28,080 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t3/ndmi_t3.csv to ../app4farm-view-ireland/data/maps_csvs/ndmi_t3.csv
+2025-10-22 15:30:28,080 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t0/ndvi_t0.csv to ../app4farm-view-ireland/data/maps_csvs/ndvi_t0.csv
+2025-10-22 15:30:28,080 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t1/ndvi_t1.csv to ../app4farm-view-ireland/data/maps_csvs/ndvi_t1.csv
+2025-10-22 15:30:28,080 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t2/ndvi_t2.csv to ../app4farm-view-ireland/data/maps_csvs/ndvi_t2.csv
+2025-10-22 15:30:28,080 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t3/ndvi_t3.csv to ../app4farm-view-ireland/data/maps_csvs/ndvi_t3.csv
+2025-10-22 15:30:28,080 - INFO - Copied ../modeling/germany/swi/forecast/results/10cm/swi_0.csv to ../app4farm-view-ireland/data/maps_csvs/swi_t0.csv
+2025-10-22 15:30:28,080 - INFO - Copied ../modeling/germany/swi/forecast/results/10cm/swi_1.csv to ../app4farm-view-ireland/data/maps_csvs/swi_t1.csv
+2025-10-22 15:30:28,080 - INFO - Copied ../modeling/germany/swi/forecast/results/10cm/swi_2.csv to ../app4farm-view-ireland/data/maps_csvs/swi_t2.csv
+2025-10-22 15:30:28,080 - INFO - Copied ../modeling/germany/swi/forecast/results/10cm/swi_3.csv to ../app4farm-view-ireland/data/maps_csvs/swi_t3.csv
+2025-10-22 15:30:28,080 - INFO - Copied ../forecast_dgmix/forecast_output_Soil suction_mean.csv to ../app4farm-view-ireland/data/forecast_dgmix/
+2025-10-22 15:30:28,081 - INFO - Copied ../forecast_dgmix/forecast_output_PI54D_mean.csv to ../app4farm-view-ireland/data/forecast_dgmix/
+2025-10-22 15:30:28,081 - INFO - Copied ../forecast_dgmix/forecast_output_PI54D Perm_mean.csv to ../app4farm-view-ireland/data/forecast_dgmix/
+2025-10-22 15:30:28,081 - INFO - Copied ../forecast_dgmix/forecast_output_Dew point_mean.csv to ../app4farm-view-ireland/data/forecast_dgmix/
+2025-10-22 15:30:28,081 - INFO - Copied ../forecast_dgmix/forecast_output_PI54D temp_mean.csv to ../app4farm-view-ireland/data/forecast_dgmix/
+2025-10-22 15:30:28,081 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t0/model_performance_t0.csv to ../app4farm-view-ireland/data/performance/ndmi_0.csv
+2025-10-22 15:30:28,081 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t1/model_performance_t1.csv to ../app4farm-view-ireland/data/performance/ndmi_1.csv
+2025-10-22 15:30:28,081 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t2/model_performance_t2.csv to ../app4farm-view-ireland/data/performance/ndmi_2.csv
+2025-10-22 15:30:28,081 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t3/model_performance_t3.csv to ../app4farm-view-ireland/data/performance/ndmi_3.csv
+2025-10-22 15:30:28,081 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t0/model_performance_t0.csv to ../app4farm-view-ireland/data/performance/ndvi_0.csv
+2025-10-22 15:30:28,081 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t1/model_performance_t1.csv to ../app4farm-view-ireland/data/performance/ndvi_1.csv
+2025-10-22 15:30:28,081 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t2/model_performance_t2.csv to ../app4farm-view-ireland/data/performance/ndvi_2.csv
+2025-10-22 15:30:28,081 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t3/model_performance_t3.csv to ../app4farm-view-ireland/data/performance/ndvi_3.csv
+2025-10-22 15:30:28,081 - INFO - Copied ../modeling/germany/swi/forecast/results/10cm/model_performance.csv to ../app4farm-view-ireland/data/performance/
+2025-10-22 15:30:28,081 - INFO - Copied ../forecast_dgmix/perf_forec_metrics_Dew point_mean.csv to ../app4farm-view-ireland/data/performance/dgmix_dew_point_mean.csv
+2025-10-22 15:30:28,081 - INFO - Copied ../forecast_dgmix/perf_forec_metrics_PI54D temp_mean.csv to ../app4farm-view-ireland/data/performance/dgmix_pi54d_temp_mean.csv
+2025-10-22 15:30:28,081 - INFO - Copied ../forecast_dgmix/perf_forec_metrics_Soil suction_mean.csv to ../app4farm-view-ireland/data/performance/dgmix_soil_suction_mean.csv
+2025-10-22 15:30:28,081 - INFO - Copied ../forecast_dgmix/perf_forec_metrics_PI54D Perm_mean.csv to ../app4farm-view-ireland/data/performance/dgmix_pi54d_perm_mean.csv
+2025-10-22 15:30:28,081 - INFO - Copied ../forecast_dgmix/perf_forec_metrics_PI54D_mean.csv to ../app4farm-view-ireland/data/performance/dgmix_pi54d_mean.csv
+2025-10-22 15:30:28,081 - INFO - ************************************************ Maps ************************************************
+2025-10-22 15:30:29,265 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/swi_t0_plain.html
+2025-10-22 15:30:30,444 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndvi_t3_plain.html
+2025-10-22 15:30:31,608 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndvi_t1_plain.html
+2025-10-22 15:30:32,767 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/swi_t1_plain.html
+2025-10-22 15:30:33,925 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/swi_t2_plain.html
+2025-10-22 15:30:35,111 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndvi_t2_plain.html
+2025-10-22 15:30:36,272 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndvi_t0_plain.html
+2025-10-22 15:30:37,427 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndmi_t3_plain.html
+2025-10-22 15:30:38,602 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/swi_t3_plain.html
+2025-10-22 15:30:39,755 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndmi_t0_plain.html
+2025-10-22 15:30:40,916 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndmi_t1_plain.html
+2025-10-22 15:30:42,072 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndmi_t2_plain.html
+2025-10-22 15:30:42,073 - INFO - *********************************************** Charts ***********************************************
+2025-10-22 15:30:42,195 - INFO - ✅ Chart HTML saved to ../app4farm-view-ireland/plain_html/soil_suction_mean_plain.html
+2025-10-22 15:30:42,223 - INFO - ✅ Chart HTML saved to ../app4farm-view-ireland/plain_html/pi54d_mean_plain.html
+2025-10-22 15:30:42,251 - INFO - ✅ Chart HTML saved to ../app4farm-view-ireland/plain_html/pi54d_perm_mean_plain.html
+2025-10-22 15:30:42,279 - INFO - ✅ Chart HTML saved to ../app4farm-view-ireland/plain_html/dew_point_mean_plain.html
+2025-10-22 15:30:42,307 - INFO - ✅ Chart HTML saved to ../app4farm-view-ireland/plain_html/pi54d_temp_mean_plain.html
+2025-10-22 15:30:42,307 - INFO - *********************************************** Cipher ***********************************************
+2025-10-22 15:30:42,343 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/pi54d_perm_mean.html!
+2025-10-22 15:30:42,372 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/pi54d_mean.html!
+2025-10-22 15:30:42,380 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/swi_t3.html!
+2025-10-22 15:30:42,389 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/ndvi_t3.html!
+2025-10-22 15:30:42,417 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/dew_point_mean.html!
+2025-10-22 15:30:42,427 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/ndmi_t2.html!
+2025-10-22 15:30:42,461 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/soil_suction_mean.html!
+2025-10-22 15:30:42,471 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/ndvi_t2.html!
+2025-10-22 15:30:42,480 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/swi_t0.html!
+2025-10-22 15:30:42,487 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/swi_t1.html!
+2025-10-22 15:30:42,496 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/ndvi_t1.html!
+2025-10-22 15:30:42,503 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/ndmi_t1.html!
+2025-10-22 15:30:42,512 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/ndmi_t0.html!
+2025-10-22 15:30:42,519 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/ndmi_t3.html!
+2025-10-22 15:30:42,528 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/ndvi_t0.html!
+2025-10-22 15:30:42,555 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/pi54d_temp_mean.html!
+2025-10-22 15:30:42,564 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/swi_t2.html!
+2025-10-22 15:30:42,565 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/collector.html!
+2025-10-22 15:30:42,565 - INFO - ********************************************* Performance ********************************************
+2025-10-22 15:30:42,572 - INFO - ✅ Performance JSON saved to ../app4farm-view-ireland/performance.json
+2025-10-22 15:30:42,572 - INFO - *********************************************** Upload ***********************************************
+2025-10-22 16:00:10,768 - INFO - ******************************************************************************************************
+2025-10-22 16:00:10,768 - INFO - ******************************************************************************************************
+2025-10-22 16:00:10,769 - INFO - ******************************************************************************************************
+2025-10-22 16:00:10,769 - INFO - ************************************************ Clear ***********************************************
+2025-10-22 16:00:10,769 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/pi54d_perm_mean_plain.html
+2025-10-22 16:00:10,769 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/pi54d_mean_plain.html
+2025-10-22 16:00:10,770 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/swi_t3_plain.html
+2025-10-22 16:00:10,770 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/ndvi_t3_plain.html
+2025-10-22 16:00:10,770 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/dew_point_mean_plain.html
+2025-10-22 16:00:10,771 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/ndmi_t2_plain.html
+2025-10-22 16:00:10,771 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/soil_suction_mean_plain.html
+2025-10-22 16:00:10,772 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/ndvi_t2_plain.html
+2025-10-22 16:00:10,772 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/swi_t0_plain.html
+2025-10-22 16:00:10,772 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/swi_t1_plain.html
+2025-10-22 16:00:10,772 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/ndvi_t1_plain.html
+2025-10-22 16:00:10,773 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/ndmi_t1_plain.html
+2025-10-22 16:00:10,773 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/ndmi_t0_plain.html
+2025-10-22 16:00:10,773 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/ndmi_t3_plain.html
+2025-10-22 16:00:10,773 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/ndvi_t0_plain.html
+2025-10-22 16:00:10,774 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/pi54d_temp_mean_plain.html
+2025-10-22 16:00:10,774 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/swi_t2_plain.html
+2025-10-22 16:00:10,774 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/dgmix_pi54d_perm_mean.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/dgmix_dew_point_mean.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/ndvi_2.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/dgmix_soil_suction_mean.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/ndmi_2.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/ndvi_0.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/ndmi_1.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/dgmix_pi54d_mean.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/ndvi_1.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/ndvi_3.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/ndmi_0.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/swi.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/ndmi_3.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/dgmix_pi54d_temp_mean.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/swi_t0.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/ndvi_t3.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/ndvi_t1.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/swi_t1.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/swi_t2.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/ndvi_t2.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/ndvi_t0.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/ndmi_t3.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/swi_t3.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/ndmi_t0.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/ndmi_t1.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/ndmi_t2.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/forecast_dgmix/forecast_output_Soil suction_mean.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/forecast_dgmix/forecast_output_PI54D_mean.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/forecast_dgmix/forecast_output_PI54D Perm_mean.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/forecast_dgmix/forecast_output_Dew point_mean.csv
+2025-10-22 16:00:10,775 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/forecast_dgmix/forecast_output_PI54D temp_mean.csv
+2025-10-22 16:00:10,776 - INFO - 🗑️ Clearing ../app4farm-view-ireland/ndmi_t0.html
+2025-10-22 16:00:10,776 - INFO - 🗑️ Clearing ../app4farm-view-ireland/ndmi_t2.html
+2025-10-22 16:00:10,776 - INFO - 🗑️ Clearing ../app4farm-view-ireland/ndvi_t1.html
+2025-10-22 16:00:10,776 - INFO - 🗑️ Clearing ../app4farm-view-ireland/swi_t0.html
+2025-10-22 16:00:10,776 - INFO - 🗑️ Clearing ../app4farm-view-ireland/swi_t3.html
+2025-10-22 16:00:10,777 - INFO - 🗑️ Clearing ../app4farm-view-ireland/pi54d_mean.html
+2025-10-22 16:00:10,777 - INFO - 🗑️ Clearing ../app4farm-view-ireland/soil_suction_mean.html
+2025-10-22 16:00:10,777 - INFO - 🗑️ Clearing ../app4farm-view-ireland/swi_t2.html
+2025-10-22 16:00:10,778 - INFO - 🗑️ Clearing ../app4farm-view-ireland/ndvi_t2.html
+2025-10-22 16:00:10,778 - INFO - 🗑️ Clearing ../app4farm-view-ireland/pi54d_temp_mean.html
+2025-10-22 16:00:10,778 - INFO - 🗑️ Clearing ../app4farm-view-ireland/ndmi_t1.html
+2025-10-22 16:00:10,778 - INFO - 🗑️ Clearing ../app4farm-view-ireland/ndvi_t0.html
+2025-10-22 16:00:10,778 - INFO - 🗑️ Clearing ../app4farm-view-ireland/ndmi_t3.html
+2025-10-22 16:00:10,779 - INFO - 🗑️ Clearing ../app4farm-view-ireland/pi54d_perm_mean.html
+2025-10-22 16:00:10,779 - INFO - 🗑️ Clearing ../app4farm-view-ireland/collector.html
+2025-10-22 16:00:10,779 - INFO - 🗑️ Clearing ../app4farm-view-ireland/dew_point_mean.html
+2025-10-22 16:00:10,780 - INFO - 🗑️ Clearing ../app4farm-view-ireland/ndvi_t3.html
+2025-10-22 16:00:10,780 - INFO - 🗑️ Clearing ../app4farm-view-ireland/swi_t1.html
+2025-10-22 16:00:10,780 - INFO - ************************************************ Copy ************************************************
+2025-10-22 16:00:10,780 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t0/ndmi_t0.csv to ../app4farm-view-ireland/data/maps_csvs/ndmi_t0.csv
+2025-10-22 16:00:10,780 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t1/ndmi_t1.csv to ../app4farm-view-ireland/data/maps_csvs/ndmi_t1.csv
+2025-10-22 16:00:10,780 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t2/ndmi_t2.csv to ../app4farm-view-ireland/data/maps_csvs/ndmi_t2.csv
+2025-10-22 16:00:10,780 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t3/ndmi_t3.csv to ../app4farm-view-ireland/data/maps_csvs/ndmi_t3.csv
+2025-10-22 16:00:10,780 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t0/ndvi_t0.csv to ../app4farm-view-ireland/data/maps_csvs/ndvi_t0.csv
+2025-10-22 16:00:10,780 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t1/ndvi_t1.csv to ../app4farm-view-ireland/data/maps_csvs/ndvi_t1.csv
+2025-10-22 16:00:10,781 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t2/ndvi_t2.csv to ../app4farm-view-ireland/data/maps_csvs/ndvi_t2.csv
+2025-10-22 16:00:10,781 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t3/ndvi_t3.csv to ../app4farm-view-ireland/data/maps_csvs/ndvi_t3.csv
+2025-10-22 16:00:10,781 - INFO - Copied ../modeling/germany/swi/forecast/results/10cm/swi_0.csv to ../app4farm-view-ireland/data/maps_csvs/swi_t0.csv
+2025-10-22 16:00:10,781 - INFO - Copied ../modeling/germany/swi/forecast/results/10cm/swi_1.csv to ../app4farm-view-ireland/data/maps_csvs/swi_t1.csv
+2025-10-22 16:00:10,781 - INFO - Copied ../modeling/germany/swi/forecast/results/10cm/swi_2.csv to ../app4farm-view-ireland/data/maps_csvs/swi_t2.csv
+2025-10-22 16:00:10,781 - INFO - Copied ../modeling/germany/swi/forecast/results/10cm/swi_3.csv to ../app4farm-view-ireland/data/maps_csvs/swi_t3.csv
+2025-10-22 16:00:10,781 - INFO - Copied ../forecast_dgmix/forecast_output_Soil suction_mean.csv to ../app4farm-view-ireland/data/forecast_dgmix/
+2025-10-22 16:00:10,781 - INFO - Copied ../forecast_dgmix/forecast_output_PI54D_mean.csv to ../app4farm-view-ireland/data/forecast_dgmix/
+2025-10-22 16:00:10,781 - INFO - Copied ../forecast_dgmix/forecast_output_PI54D Perm_mean.csv to ../app4farm-view-ireland/data/forecast_dgmix/
+2025-10-22 16:00:10,781 - INFO - Copied ../forecast_dgmix/forecast_output_Dew point_mean.csv to ../app4farm-view-ireland/data/forecast_dgmix/
+2025-10-22 16:00:10,781 - INFO - Copied ../forecast_dgmix/forecast_output_PI54D temp_mean.csv to ../app4farm-view-ireland/data/forecast_dgmix/
+2025-10-22 16:00:10,781 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t0/model_performance_t0.csv to ../app4farm-view-ireland/data/performance/ndmi_0.csv
+2025-10-22 16:00:10,781 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t1/model_performance_t1.csv to ../app4farm-view-ireland/data/performance/ndmi_1.csv
+2025-10-22 16:00:10,781 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t2/model_performance_t2.csv to ../app4farm-view-ireland/data/performance/ndmi_2.csv
+2025-10-22 16:00:10,781 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t3/model_performance_t3.csv to ../app4farm-view-ireland/data/performance/ndmi_3.csv
+2025-10-22 16:00:10,781 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t0/model_performance_t0.csv to ../app4farm-view-ireland/data/performance/ndvi_0.csv
+2025-10-22 16:00:10,781 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t1/model_performance_t1.csv to ../app4farm-view-ireland/data/performance/ndvi_1.csv
+2025-10-22 16:00:10,781 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t2/model_performance_t2.csv to ../app4farm-view-ireland/data/performance/ndvi_2.csv
+2025-10-22 16:00:10,781 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t3/model_performance_t3.csv to ../app4farm-view-ireland/data/performance/ndvi_3.csv
+2025-10-22 16:00:10,782 - INFO - Copied ../modeling/germany/swi/forecast/results/10cm/model_performance.csv to ../app4farm-view-ireland/data/performance/
+2025-10-22 16:00:10,782 - INFO - Copied ../forecast_dgmix/perf_forec_metrics_Dew point_mean.csv to ../app4farm-view-ireland/data/performance/dgmix_dew_point_mean.csv
+2025-10-22 16:00:10,782 - INFO - Copied ../forecast_dgmix/perf_forec_metrics_PI54D temp_mean.csv to ../app4farm-view-ireland/data/performance/dgmix_pi54d_temp_mean.csv
+2025-10-22 16:00:10,782 - INFO - Copied ../forecast_dgmix/perf_forec_metrics_Soil suction_mean.csv to ../app4farm-view-ireland/data/performance/dgmix_soil_suction_mean.csv
+2025-10-22 16:00:10,782 - INFO - Copied ../forecast_dgmix/perf_forec_metrics_PI54D Perm_mean.csv to ../app4farm-view-ireland/data/performance/dgmix_pi54d_perm_mean.csv
+2025-10-22 16:00:10,782 - INFO - Copied ../forecast_dgmix/perf_forec_metrics_PI54D_mean.csv to ../app4farm-view-ireland/data/performance/dgmix_pi54d_mean.csv
+2025-10-22 16:00:10,782 - INFO - ************************************************ Maps ************************************************
+2025-10-22 16:00:11,944 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/swi_t0_plain.html
+2025-10-22 16:00:13,117 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndvi_t3_plain.html
+2025-10-22 16:00:14,271 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndvi_t1_plain.html
+2025-10-22 16:00:15,420 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/swi_t1_plain.html
+2025-10-22 16:00:16,577 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/swi_t2_plain.html
+2025-10-22 16:00:17,742 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndvi_t2_plain.html
+2025-10-22 16:00:18,894 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndvi_t0_plain.html
+2025-10-22 16:00:20,045 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndmi_t3_plain.html
+2025-10-22 16:00:21,213 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/swi_t3_plain.html
+2025-10-22 16:00:22,372 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndmi_t0_plain.html
+2025-10-22 16:00:23,530 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndmi_t1_plain.html
+2025-10-22 16:00:24,679 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndmi_t2_plain.html
+2025-10-22 16:00:24,680 - INFO - *********************************************** Charts ***********************************************
+2025-10-22 16:00:24,788 - INFO - ✅ Chart HTML saved to ../app4farm-view-ireland/plain_html/soil_suction_mean_plain.html
+2025-10-22 16:00:24,814 - INFO - ✅ Chart HTML saved to ../app4farm-view-ireland/plain_html/pi54d_mean_plain.html
+2025-10-22 16:00:24,840 - INFO - ✅ Chart HTML saved to ../app4farm-view-ireland/plain_html/pi54d_perm_mean_plain.html
+2025-10-22 16:00:24,866 - INFO - ✅ Chart HTML saved to ../app4farm-view-ireland/plain_html/dew_point_mean_plain.html
+2025-10-22 16:00:24,891 - INFO - ✅ Chart HTML saved to ../app4farm-view-ireland/plain_html/pi54d_temp_mean_plain.html
+2025-10-22 16:00:24,891 - INFO - *********************************************** Cipher ***********************************************
+2025-10-22 16:00:24,921 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/pi54d_perm_mean.html!
+2025-10-22 16:00:24,948 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/pi54d_mean.html!
+2025-10-22 16:00:24,956 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/swi_t3.html!
+2025-10-22 16:00:24,963 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/ndvi_t3.html!
+2025-10-22 16:00:24,987 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/dew_point_mean.html!
+2025-10-22 16:00:24,996 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/ndmi_t2.html!
+2025-10-22 16:00:25,021 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/soil_suction_mean.html!
+2025-10-22 16:00:25,029 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/ndvi_t2.html!
+2025-10-22 16:00:25,037 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/swi_t0.html!
+2025-10-22 16:00:25,043 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/swi_t1.html!
+2025-10-22 16:00:25,050 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/ndvi_t1.html!
+2025-10-22 16:00:25,056 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/ndmi_t1.html!
+2025-10-22 16:00:25,063 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/ndmi_t0.html!
+2025-10-22 16:00:25,070 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/ndmi_t3.html!
+2025-10-22 16:00:25,077 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/ndvi_t0.html!
+2025-10-22 16:00:25,103 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/pi54d_temp_mean.html!
+2025-10-22 16:00:25,111 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/swi_t2.html!
+2025-10-22 16:00:25,111 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/collector.html!
+2025-10-22 16:00:25,111 - INFO - ********************************************* Performance ********************************************
+2025-10-22 16:00:25,118 - INFO - ✅ Performance JSON saved to ../app4farm-view-ireland/performance.json
+2025-10-22 16:00:25,118 - INFO - *********************************************** Upload ***********************************************
+2025-10-22 16:00:25,120 - INFO - ❌ Git error: Command '['git', '-C', '/home/app4farm/DSS/ireland', 'add', '-A']' returned non-zero exit status 128.
+2025-10-22 16:00:40,031 - INFO - ******************************************************************************************************
+2025-10-22 16:00:40,031 - INFO - ******************************************************************************************************
+2025-10-22 16:00:40,031 - INFO - ******************************************************************************************************
+2025-10-22 16:00:40,031 - INFO - ************************************************ Clear ***********************************************
+2025-10-22 16:00:40,031 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/pi54d_perm_mean_plain.html
+2025-10-22 16:00:40,032 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/pi54d_mean_plain.html
+2025-10-22 16:00:40,032 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/swi_t3_plain.html
+2025-10-22 16:00:40,032 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/ndvi_t3_plain.html
+2025-10-22 16:00:40,032 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/dew_point_mean_plain.html
+2025-10-22 16:00:40,033 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/ndmi_t2_plain.html
+2025-10-22 16:00:40,033 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/soil_suction_mean_plain.html
+2025-10-22 16:00:40,033 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/ndvi_t2_plain.html
+2025-10-22 16:00:40,034 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/swi_t0_plain.html
+2025-10-22 16:00:40,034 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/swi_t1_plain.html
+2025-10-22 16:00:40,034 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/ndvi_t1_plain.html
+2025-10-22 16:00:40,034 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/ndmi_t1_plain.html
+2025-10-22 16:00:40,034 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/ndmi_t0_plain.html
+2025-10-22 16:00:40,034 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/ndmi_t3_plain.html
+2025-10-22 16:00:40,034 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/ndvi_t0_plain.html
+2025-10-22 16:00:40,035 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/pi54d_temp_mean_plain.html
+2025-10-22 16:00:40,035 - INFO - 🗑️ Clearing ../app4farm-view-ireland/plain_html/swi_t2_plain.html
+2025-10-22 16:00:40,035 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/dgmix_pi54d_perm_mean.csv
+2025-10-22 16:00:40,035 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/dgmix_dew_point_mean.csv
+2025-10-22 16:00:40,035 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/ndvi_2.csv
+2025-10-22 16:00:40,035 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/dgmix_soil_suction_mean.csv
+2025-10-22 16:00:40,035 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/ndmi_2.csv
+2025-10-22 16:00:40,035 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/ndvi_0.csv
+2025-10-22 16:00:40,035 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/ndmi_1.csv
+2025-10-22 16:00:40,035 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/dgmix_pi54d_mean.csv
+2025-10-22 16:00:40,035 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/ndvi_1.csv
+2025-10-22 16:00:40,035 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/ndvi_3.csv
+2025-10-22 16:00:40,035 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/ndmi_0.csv
+2025-10-22 16:00:40,035 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/swi.csv
+2025-10-22 16:00:40,035 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/ndmi_3.csv
+2025-10-22 16:00:40,035 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/performance/dgmix_pi54d_temp_mean.csv
+2025-10-22 16:00:40,035 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/swi_t0.csv
+2025-10-22 16:00:40,035 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/ndvi_t3.csv
+2025-10-22 16:00:40,035 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/ndvi_t1.csv
+2025-10-22 16:00:40,035 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/swi_t1.csv
+2025-10-22 16:00:40,035 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/swi_t2.csv
+2025-10-22 16:00:40,036 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/ndvi_t2.csv
+2025-10-22 16:00:40,036 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/ndvi_t0.csv
+2025-10-22 16:00:40,036 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/ndmi_t3.csv
+2025-10-22 16:00:40,036 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/swi_t3.csv
+2025-10-22 16:00:40,036 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/ndmi_t0.csv
+2025-10-22 16:00:40,036 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/ndmi_t1.csv
+2025-10-22 16:00:40,036 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/maps_csvs/ndmi_t2.csv
+2025-10-22 16:00:40,036 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/forecast_dgmix/forecast_output_Soil suction_mean.csv
+2025-10-22 16:00:40,036 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/forecast_dgmix/forecast_output_PI54D_mean.csv
+2025-10-22 16:00:40,036 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/forecast_dgmix/forecast_output_PI54D Perm_mean.csv
+2025-10-22 16:00:40,036 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/forecast_dgmix/forecast_output_Dew point_mean.csv
+2025-10-22 16:00:40,036 - INFO - 🗑️ Clearing ../app4farm-view-ireland/data/forecast_dgmix/forecast_output_PI54D temp_mean.csv
+2025-10-22 16:00:40,036 - INFO - 🗑️ Clearing ../app4farm-view-ireland/ndmi_t0.html
+2025-10-22 16:00:40,036 - INFO - 🗑️ Clearing ../app4farm-view-ireland/ndmi_t2.html
+2025-10-22 16:00:40,037 - INFO - 🗑️ Clearing ../app4farm-view-ireland/ndvi_t1.html
+2025-10-22 16:00:40,037 - INFO - 🗑️ Clearing ../app4farm-view-ireland/swi_t0.html
+2025-10-22 16:00:40,037 - INFO - 🗑️ Clearing ../app4farm-view-ireland/swi_t3.html
+2025-10-22 16:00:40,037 - INFO - 🗑️ Clearing ../app4farm-view-ireland/pi54d_mean.html
+2025-10-22 16:00:40,038 - INFO - 🗑️ Clearing ../app4farm-view-ireland/soil_suction_mean.html
+2025-10-22 16:00:40,038 - INFO - 🗑️ Clearing ../app4farm-view-ireland/swi_t2.html
+2025-10-22 16:00:40,038 - INFO - 🗑️ Clearing ../app4farm-view-ireland/ndvi_t2.html
+2025-10-22 16:00:40,038 - INFO - 🗑️ Clearing ../app4farm-view-ireland/pi54d_temp_mean.html
+2025-10-22 16:00:40,039 - INFO - 🗑️ Clearing ../app4farm-view-ireland/ndmi_t1.html
+2025-10-22 16:00:40,039 - INFO - 🗑️ Clearing ../app4farm-view-ireland/ndvi_t0.html
+2025-10-22 16:00:40,039 - INFO - 🗑️ Clearing ../app4farm-view-ireland/ndmi_t3.html
+2025-10-22 16:00:40,040 - INFO - 🗑️ Clearing ../app4farm-view-ireland/pi54d_perm_mean.html
+2025-10-22 16:00:40,040 - INFO - 🗑️ Clearing ../app4farm-view-ireland/collector.html
+2025-10-22 16:00:40,040 - INFO - 🗑️ Clearing ../app4farm-view-ireland/dew_point_mean.html
+2025-10-22 16:00:40,040 - INFO - 🗑️ Clearing ../app4farm-view-ireland/ndvi_t3.html
+2025-10-22 16:00:40,041 - INFO - 🗑️ Clearing ../app4farm-view-ireland/swi_t1.html
+2025-10-22 16:00:40,041 - INFO - ************************************************ Copy ************************************************
+2025-10-22 16:00:40,041 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t0/ndmi_t0.csv to ../app4farm-view-ireland/data/maps_csvs/ndmi_t0.csv
+2025-10-22 16:00:40,041 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t1/ndmi_t1.csv to ../app4farm-view-ireland/data/maps_csvs/ndmi_t1.csv
+2025-10-22 16:00:40,041 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t2/ndmi_t2.csv to ../app4farm-view-ireland/data/maps_csvs/ndmi_t2.csv
+2025-10-22 16:00:40,041 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t3/ndmi_t3.csv to ../app4farm-view-ireland/data/maps_csvs/ndmi_t3.csv
+2025-10-22 16:00:40,041 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t0/ndvi_t0.csv to ../app4farm-view-ireland/data/maps_csvs/ndvi_t0.csv
+2025-10-22 16:00:40,042 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t1/ndvi_t1.csv to ../app4farm-view-ireland/data/maps_csvs/ndvi_t1.csv
+2025-10-22 16:00:40,042 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t2/ndvi_t2.csv to ../app4farm-view-ireland/data/maps_csvs/ndvi_t2.csv
+2025-10-22 16:00:40,042 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t3/ndvi_t3.csv to ../app4farm-view-ireland/data/maps_csvs/ndvi_t3.csv
+2025-10-22 16:00:40,042 - INFO - Copied ../modeling/germany/swi/forecast/results/10cm/swi_0.csv to ../app4farm-view-ireland/data/maps_csvs/swi_t0.csv
+2025-10-22 16:00:40,042 - INFO - Copied ../modeling/germany/swi/forecast/results/10cm/swi_1.csv to ../app4farm-view-ireland/data/maps_csvs/swi_t1.csv
+2025-10-22 16:00:40,042 - INFO - Copied ../modeling/germany/swi/forecast/results/10cm/swi_2.csv to ../app4farm-view-ireland/data/maps_csvs/swi_t2.csv
+2025-10-22 16:00:40,042 - INFO - Copied ../modeling/germany/swi/forecast/results/10cm/swi_3.csv to ../app4farm-view-ireland/data/maps_csvs/swi_t3.csv
+2025-10-22 16:00:40,042 - INFO - Copied ../forecast_dgmix/forecast_output_Soil suction_mean.csv to ../app4farm-view-ireland/data/forecast_dgmix/
+2025-10-22 16:00:40,042 - INFO - Copied ../forecast_dgmix/forecast_output_PI54D_mean.csv to ../app4farm-view-ireland/data/forecast_dgmix/
+2025-10-22 16:00:40,042 - INFO - Copied ../forecast_dgmix/forecast_output_PI54D Perm_mean.csv to ../app4farm-view-ireland/data/forecast_dgmix/
+2025-10-22 16:00:40,042 - INFO - Copied ../forecast_dgmix/forecast_output_Dew point_mean.csv to ../app4farm-view-ireland/data/forecast_dgmix/
+2025-10-22 16:00:40,042 - INFO - Copied ../forecast_dgmix/forecast_output_PI54D temp_mean.csv to ../app4farm-view-ireland/data/forecast_dgmix/
+2025-10-22 16:00:40,042 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t0/model_performance_t0.csv to ../app4farm-view-ireland/data/performance/ndmi_0.csv
+2025-10-22 16:00:40,042 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t1/model_performance_t1.csv to ../app4farm-view-ireland/data/performance/ndmi_1.csv
+2025-10-22 16:00:40,042 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t2/model_performance_t2.csv to ../app4farm-view-ireland/data/performance/ndmi_2.csv
+2025-10-22 16:00:40,042 - INFO - Copied ../modeling/germany/ndmi/forecast/results/t3/model_performance_t3.csv to ../app4farm-view-ireland/data/performance/ndmi_3.csv
+2025-10-22 16:00:40,042 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t0/model_performance_t0.csv to ../app4farm-view-ireland/data/performance/ndvi_0.csv
+2025-10-22 16:00:40,042 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t1/model_performance_t1.csv to ../app4farm-view-ireland/data/performance/ndvi_1.csv
+2025-10-22 16:00:40,042 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t2/model_performance_t2.csv to ../app4farm-view-ireland/data/performance/ndvi_2.csv
+2025-10-22 16:00:40,043 - INFO - Copied ../modeling/germany/ndvi/forecast/results/t3/model_performance_t3.csv to ../app4farm-view-ireland/data/performance/ndvi_3.csv
+2025-10-22 16:00:40,043 - INFO - Copied ../modeling/germany/swi/forecast/results/10cm/model_performance.csv to ../app4farm-view-ireland/data/performance/
+2025-10-22 16:00:40,043 - INFO - Copied ../forecast_dgmix/perf_forec_metrics_Dew point_mean.csv to ../app4farm-view-ireland/data/performance/dgmix_dew_point_mean.csv
+2025-10-22 16:00:40,043 - INFO - Copied ../forecast_dgmix/perf_forec_metrics_PI54D temp_mean.csv to ../app4farm-view-ireland/data/performance/dgmix_pi54d_temp_mean.csv
+2025-10-22 16:00:40,043 - INFO - Copied ../forecast_dgmix/perf_forec_metrics_Soil suction_mean.csv to ../app4farm-view-ireland/data/performance/dgmix_soil_suction_mean.csv
+2025-10-22 16:00:40,043 - INFO - Copied ../forecast_dgmix/perf_forec_metrics_PI54D Perm_mean.csv to ../app4farm-view-ireland/data/performance/dgmix_pi54d_perm_mean.csv
+2025-10-22 16:00:40,043 - INFO - Copied ../forecast_dgmix/perf_forec_metrics_PI54D_mean.csv to ../app4farm-view-ireland/data/performance/dgmix_pi54d_mean.csv
+2025-10-22 16:00:40,043 - INFO - ************************************************ Maps ************************************************
+2025-10-22 16:00:41,195 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/swi_t0_plain.html
+2025-10-22 16:00:42,357 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndvi_t3_plain.html
+2025-10-22 16:00:43,506 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndvi_t1_plain.html
+2025-10-22 16:00:44,649 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/swi_t1_plain.html
+2025-10-22 16:00:45,793 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/swi_t2_plain.html
+2025-10-22 16:00:46,949 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndvi_t2_plain.html
+2025-10-22 16:00:48,098 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndvi_t0_plain.html
+2025-10-22 16:00:49,244 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndmi_t3_plain.html
+2025-10-22 16:00:50,405 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/swi_t3_plain.html
+2025-10-22 16:00:51,547 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndmi_t0_plain.html
+2025-10-22 16:00:52,689 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndmi_t1_plain.html
+2025-10-22 16:00:53,829 - INFO - ✅ Map HTML saved to ../app4farm-view-ireland/plain_html/ndmi_t2_plain.html
+2025-10-22 16:00:53,830 - INFO - *********************************************** Charts ***********************************************
+2025-10-22 16:00:53,937 - INFO - ✅ Chart HTML saved to ../app4farm-view-ireland/plain_html/soil_suction_mean_plain.html
+2025-10-22 16:00:53,965 - INFO - ✅ Chart HTML saved to ../app4farm-view-ireland/plain_html/pi54d_mean_plain.html
+2025-10-22 16:00:53,991 - INFO - ✅ Chart HTML saved to ../app4farm-view-ireland/plain_html/pi54d_perm_mean_plain.html
+2025-10-22 16:00:54,017 - INFO - ✅ Chart HTML saved to ../app4farm-view-ireland/plain_html/dew_point_mean_plain.html
+2025-10-22 16:00:54,044 - INFO - ✅ Chart HTML saved to ../app4farm-view-ireland/plain_html/pi54d_temp_mean_plain.html
+2025-10-22 16:00:54,044 - INFO - *********************************************** Cipher ***********************************************
+2025-10-22 16:00:54,074 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/pi54d_perm_mean.html!
+2025-10-22 16:00:54,103 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/pi54d_mean.html!
+2025-10-22 16:00:54,111 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/swi_t3.html!
+2025-10-22 16:00:54,117 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/ndvi_t3.html!
+2025-10-22 16:00:54,143 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/dew_point_mean.html!
+2025-10-22 16:00:54,151 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/ndmi_t2.html!
+2025-10-22 16:00:54,177 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/soil_suction_mean.html!
+2025-10-22 16:00:54,185 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/ndvi_t2.html!
+2025-10-22 16:00:54,191 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/swi_t0.html!
+2025-10-22 16:00:54,197 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/swi_t1.html!
+2025-10-22 16:00:54,203 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/ndvi_t1.html!
+2025-10-22 16:00:54,210 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/ndmi_t1.html!
+2025-10-22 16:00:54,216 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/ndmi_t0.html!
+2025-10-22 16:00:54,222 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/ndmi_t3.html!
+2025-10-22 16:00:54,228 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/ndvi_t0.html!
+2025-10-22 16:00:54,255 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/pi54d_temp_mean.html!
+2025-10-22 16:00:54,264 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/swi_t2.html!
+2025-10-22 16:00:54,265 - INFO - 🔐 Ciphered html saved: ../app4farm-view-ireland/collector.html!
+2025-10-22 16:00:54,265 - INFO - ********************************************* Performance ********************************************
+2025-10-22 16:00:54,272 - INFO - ✅ Performance JSON saved to ../app4farm-view-ireland/performance.json
+2025-10-22 16:00:54,272 - INFO - *********************************************** Upload ***********************************************
